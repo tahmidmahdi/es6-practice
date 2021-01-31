@@ -1,4 +1,4 @@
-function add(num1, num2=15) {
+function add(num1, num2=15 ) { //third method is assign parameter value into function
 
     // 1st method to solve this problem
     // if(num2 == undefined){
